@@ -1,0 +1,84 @@
+<!doctype html>
+<html>
+<head>
+<title>
+Incredible India</title>
+</head>
+
+
+
+<body style = "backgrond-image:url('banner.jpg');opacity:.9;background-size:cover;background-repeat:no-repeat;">
+<header>
+<footer>
+<center>
+<h1>Incredible India</h1>
+<marquee> Explore the best destination to visit in India</marquee>
+
+
+<h2 font-family="Lucida Console">
+<ul style="padding:10px;">
+
+
+<li style 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

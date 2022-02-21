@@ -1,0 +1,47 @@
+<!doctype html>
+<html>
+<Head>
+</head>
+
+<title>
+sikkim cusine
+</title>
+
+<h1 align="center"> 
+<b>THE DELICIOUS FOOD OF SIKKIM</b> </h1>
+<body bgcolor="yellow" text="blue">
+
+<p1 align="justify">
+<p><b><u>Sikkimese cuisine</u> </b>is the cuisine of the state of <b><u><i>Sikkim</i></u></b>, located in northeastern India. Rice is a staple food, and fermented foods traditionally constitute a significant portion of the 
+cuisine. Nepalese cuisine is popular, as Sikkim is the only state of India with an <b>ethnic Nepali</b> majority. Many restaurants in Sikkim serve various types of Nepalese cuisine, such 
+as the<b> Limbu, Newa and Thakali cuisines</b>. Tibetan cuisine has also influenced Sikkimese cuisine. Sikkim has a blend of cultures and traditions of <b>Nepal, India, Bhutan and Tibet</b>. So, 
+does the cuisine of this state. The combination of various cuisines has resulted in one specific cuisine, which are now called as <b><i>cuisine of Sikkim</b></i>.</p>
+
+
+<p>The food of Sikkim is a rich mixture of <b><u>Nepalese</b></u>, Tibetan and native Sikkimese food. Maize is one of the staple produce consumed in Sikkim. The cuisine of Sikkim is primarily 
+   non-vegetarian but vegetables are used in their cuisine in the form of <u>fermented vegetables</u>, which enables them to be preserved for a longer time.</p>
+<h2><marquee><b><i>Sikkim 5 most famous cousines are</b></i></marquee></h2>
+
+<ul>
+
+<li>1. <b><u>Momo (Dumplings)</b></u>-Believed to be of Tibetan origin and modified by the Nepalese cuisine the momos are the <b>lifeline of Sikkim</b>. Momos are steamed buns with a filling. It typically 
+consists of <u>two parts</u> - the cover and the filling. The cover is made of  dough of white flour and water. Sometimes yeast or baking soda is also added to the dough to enhance the texture of
+ the momos.</li>
+ 
+<li>2.<b><u>Thukpa or Gya Thuk</b></u>-Thukpa is a kind of noodle soup of Tibetan origin that has found its way to being one of the most <b>loved food in Sikkim</b>. One can find both vegetarian and chicken
+ versions of the dish.</li>
+
+<li>3. <b><u>Phagshapa</b></u>-Phagshapa is a strip of pork fat that is stewed with dry chillies and radish. <i>A spicy and tangy endeavour of this Sikkimese dish</i> is rich in proteins and is made with no oil.</li>
+
+<li>4.<b><u> Sha Phaley</b></u>-Bread stuffed with ground beef and cabbage made into semi-circles and then <b>deep-fried</b> is everything that you need to know about this <u>famous food of Sikkim</u>.</li> 
+
+<li>5. <b><u>Gundruk</b></u>-Gundruk is a food of Nepalese origin and is one of the <b>staple foods of Sikkim</b>. Gundruk is a leafy dish that is completely vegan and is made out of some leaves of mustard, cabbage
+ or radish. Authentic Gundruk is only found in villages that people make in their households. It is rich in roughage and helps in maintaining the<u> metabolism of the body</u>.</li> 
+
+</ul>
+                 
+<img src="https://previews.123rf.com/images/snapgalleria/snapgalleria1902/snapgalleria190200010/117399414-illustration-of-delicious-traditional-food-of-sikkim-india.jpg?fj=1" width="700" height="300" class= "center"/img>
+
+
+</body>
+</html>
